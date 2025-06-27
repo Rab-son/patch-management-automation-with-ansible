@@ -30,6 +30,11 @@ cd patch-management-automation
 2. ./patch_report.sh
 3. ansible-playbook -i hosts patch.yml
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Author
 ### Rabson Sayenda
 Software Engineer | Patch Automation Project | 2025
